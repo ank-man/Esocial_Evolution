@@ -8,7 +8,7 @@ This repository contains the **exact standalone scripts** referenced in the Mate
 
 | Step                          | Folder / key script | Purpose                                         | Main tools                     |
 | ----------------------------- | ------------------- | ----------------------------------------------- | ------------------------------ |
-| **1 Data harvest**            | `01_genomes/`       | Download & standardise 194 genomes              | *wget*, *Biopython*            |
+| **1 Data harvest**            | `01_genomes/`       | Download & standardise 126 genomes              | *wget*, *Biopython*            |
 | **2 Orthology**               | `02_orthology/`     | FastOMA + BUSCO single‑copy extraction          | *FastOMA v2.2*, *BUSCO v5.7*   |
 | **3 Phylogenomics**           | `03_species_tree/`  | MAFFT + trimAl + IQ‑TREE supermatrix            | *MAFFT*, *trimAl*, *IQ‑TREE 2* |
 | **4 Synteny**                 | `04_synteny/`       | MCScanX on 10 k genome pairs, colinearity stats | *MCScanX*                      |
