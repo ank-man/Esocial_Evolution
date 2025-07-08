@@ -27,7 +27,7 @@ This repository contains the **exact standalone scripts** referenced in the Mate
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your‑org/hymenoptera‑eusociality‑scripts.git
+   git clone https://github.com/ank-man/Esocial_Evolution.git
    cd hymenoptera‑eusociality‑scripts/scripts
    ```
 2. **Install prerequisites**   
