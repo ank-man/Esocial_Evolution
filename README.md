@@ -78,8 +78,6 @@ For publication-quality figures from these outputs:
 Rscript 09_figures/plot_validation_experiments.R results/validation_experiments results/validation_experiments/figures
 ```
 
-This produces PDF/PNG figure panels and a compact summary table in `results/validation_experiments/figures/`.
-
 
 ---
 

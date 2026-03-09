@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="35" text-anchor="middle" font-size="28" font-family="Arial" fill="#222222">Figure 1. Synteny recovery under simulated rearrangements</text>
+<line x1="90" y1="710" x2="1160" y2="710" stroke="#222222"/>
+<line x1="90" y1="70" x2="90" y2="710" stroke="#222222"/>
+<line x1="90.0" y1="710" x2="90.0" y2="716" stroke="#222222"/>
+<text x="90.0" y="734" text-anchor="middle" font-size="16" font-family="Arial">10</text>
+<line x1="518.0" y1="710" x2="518.0" y2="716" stroke="#222222"/>
+<text x="518.0" y="734" text-anchor="middle" font-size="16" font-family="Arial">30</text>
+<line x1="1160.0" y1="710" x2="1160.0" y2="716" stroke="#222222"/>
+<text x="1160.0" y="734" text-anchor="middle" font-size="16" font-family="Arial">60</text>
+<line x1="84" y1="729.7729226037004" x2="90" y2="729.7729226037004" stroke="#222222"/>
+<line x1="90" y1="729.7729226037004" x2="1160" y2="729.7729226037004" stroke="#DDDDDD"/>
+<text x="80" y="734.7729226037004" text-anchor="end" font-size="16" font-family="Arial">0.87</text>
+<line x1="84" y1="399.04690821911595" x2="90" y2="399.04690821911595" stroke="#222222"/>
+<line x1="90" y1="399.04690821911595" x2="1160" y2="399.04690821911595" stroke="#DDDDDD"/>
+<text x="80" y="404.04690821911595" text-anchor="end" font-size="16" font-family="Arial">0.93</text>
+<line x1="84" y1="68.32089383453223" x2="90" y2="68.32089383453223" stroke="#222222"/>
+<line x1="90" y1="68.32089383453223" x2="1160" y2="68.32089383453223" stroke="#DDDDDD"/>
+<text x="80" y="73.32089383453223" text-anchor="end" font-size="16" font-family="Arial">0.99</text>
+<text x="625.0" y="775" text-anchor="middle" font-size="18" font-family="Arial">Number of inversions</text>
+<text x="25" y="390.0" transform="rotate(-90 25 390.0)" text-anchor="middle" font-size="18" font-family="Arial">Mean recovery</text>
+<path d="M 90.0 126.3 L 518.0 345.1 L 1160.0 654.8" fill="none" stroke="#1f77b4" stroke-width="3"/>
+<circle cx="90.0" cy="126.3" r="5" fill="#1f77b4"/>
+<circle cx="518.0" cy="345.1" r="5" fill="#1f77b4"/>
+<circle cx="1160.0" cy="654.8" r="5" fill="#1f77b4"/>
+<text x="980" y="100" font-size="16" font-family="Arial" fill="#1f77b4">20-40</text>
+<path d="M 90.0 126.6 L 518.0 346.5 L 1160.0 654.9" fill="none" stroke="#ff7f0e" stroke-width="3"/>
+<circle cx="90.0" cy="126.6" r="5" fill="#ff7f0e"/>
+<circle cx="518.0" cy="346.5" r="5" fill="#ff7f0e"/>
+<circle cx="1160.0" cy="654.9" r="5" fill="#ff7f0e"/>
+<text x="980" y="124" font-size="16" font-family="Arial" fill="#ff7f0e">5-15</text>
+<path d="M 90.0 125.1 L 518.0 344.4 L 1160.0 653.5" fill="none" stroke="#2ca02c" stroke-width="3"/>
+<circle cx="90.0" cy="125.1" r="5" fill="#2ca02c"/>
+<circle cx="518.0" cy="344.4" r="5" fill="#2ca02c"/>
+<circle cx="1160.0" cy="653.5" r="5" fill="#2ca02c"/>
+<text x="980" y="148" font-size="16" font-family="Arial" fill="#2ca02c">50-80</text>
+</svg>

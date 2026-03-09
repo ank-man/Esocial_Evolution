@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600.0" y="35" text-anchor="middle" font-size="28" font-family="Arial" fill="#222222">Figure 4. Hamilton-style linkage simulation</text>
+<line x1="90" y1="710" x2="1160" y2="710" stroke="#222222"/>
+<line x1="90" y1="70" x2="90" y2="710" stroke="#222222"/>
+<line x1="90.0" y1="710" x2="90.0" y2="716" stroke="#222222"/>
+<text x="90.0" y="734" text-anchor="middle" font-size="16" font-family="Arial">0.01</text>
+<line x1="237.58620689655174" y1="710" x2="237.58620689655174" y2="716" stroke="#222222"/>
+<text x="237.58620689655174" y="734" text-anchor="middle" font-size="16" font-family="Arial">0.05</text>
+<line x1="606.551724137931" y1="710" x2="606.551724137931" y2="716" stroke="#222222"/>
+<text x="606.551724137931" y="734" text-anchor="middle" font-size="16" font-family="Arial">0.15</text>
+<line x1="1160.0" y1="710" x2="1160.0" y2="716" stroke="#222222"/>
+<text x="1160.0" y="734" text-anchor="middle" font-size="16" font-family="Arial">0.3</text>
+<line x1="84" y1="710.0" x2="90" y2="710.0" stroke="#222222"/>
+<line x1="90" y1="710.0" x2="1160" y2="710.0" stroke="#DDDDDD"/>
+<text x="80" y="715.0" text-anchor="end" font-size="16" font-family="Arial">0.00</text>
+<line x1="84" y1="390.0" x2="90" y2="390.0" stroke="#222222"/>
+<line x1="90" y1="390.0" x2="1160" y2="390.0" stroke="#DDDDDD"/>
+<text x="80" y="395.0" text-anchor="end" font-size="16" font-family="Arial">0.16</text>
+<line x1="84" y1="70.0" x2="90" y2="70.0" stroke="#222222"/>
+<line x1="90" y1="70.0" x2="1160" y2="70.0" stroke="#DDDDDD"/>
+<text x="80" y="75.0" text-anchor="end" font-size="16" font-family="Arial">0.33</text>
+<text x="625.0" y="775" text-anchor="middle" font-size="18" font-family="Arial">Recombination rate</text>
+<text x="25" y="390.0" transform="rotate(-90 25 390.0)" text-anchor="middle" font-size="18" font-family="Arial">Final social-allele frequency</text>
+<path d="M 90.0 710.0 L 237.6 384.7 L 606.6 623.8 L 1160.0 153.5" fill="none" stroke="#d62728" stroke-width="3"/>
+<circle cx="90.0" cy="710.0" r="5" fill="#d62728"/>
+<text x="90.0" y="700.0" text-anchor="middle" font-size="13" font-family="Arial">m=0.010</text>
+<circle cx="237.6" cy="384.7" r="5" fill="#d62728"/>
+<text x="237.6" y="374.7" text-anchor="middle" font-size="13" font-family="Arial">m=0.008</text>
+<circle cx="606.6" cy="623.8" r="5" fill="#d62728"/>
+<text x="606.6" y="613.8" text-anchor="middle" font-size="13" font-family="Arial">m=0.004</text>
+<circle cx="1160.0" cy="153.5" r="5" fill="#d62728"/>
+<text x="1160.0" y="143.5" text-anchor="middle" font-size="13" font-family="Arial">m=-0.002</text>
+</svg>
