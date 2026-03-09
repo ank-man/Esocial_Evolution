@@ -1,0 +1,9 @@
+{
+  "seed": 20250708,
+  "outputs": [
+    "01_synteny_null.json",
+    "02_phylo_permutation.json",
+    "03_gene_family_simulations.json",
+    "04_hamilton_synteny_simulation.json"
+  ]
+}
