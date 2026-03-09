@@ -78,14 +78,6 @@ For publication-quality figures from these outputs:
 Rscript 09_figures/plot_validation_experiments.R results/validation_experiments results/validation_experiments/figures
 ```
 
-If `Rscript` is unavailable, use the stdlib Python fallback (writes SVG figures + summary files):
-
-```bash
-python 09_figures/plot_validation_experiments_py.py results/validation_experiments results/validation_experiments/figures
-```
-
-This produces figure panels and summary outputs in `results/validation_experiments/figures/`, including `simulation_conclusion.md`.
-
 
 ---
 
