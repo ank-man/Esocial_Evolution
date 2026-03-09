@@ -1,0 +1,38 @@
+[
+  {
+    "final_freq": 0.0,
+    "max_freq": 0.05,
+    "min_freq": 0.0,
+    "mean_freq": 0.009741046831955922,
+    "generations": 120,
+    "recombination_rate": 0.01,
+    "hamilton_margin": 0.009600000000000011
+  },
+  {
+    "final_freq": 0.166,
+    "max_freq": 0.166,
+    "min_freq": 0.036,
+    "mean_freq": 0.0889366391184573,
+    "generations": 120,
+    "recombination_rate": 0.05,
+    "hamilton_margin": 0.008000000000000007
+  },
+  {
+    "final_freq": 0.044,
+    "max_freq": 0.058666666666666666,
+    "min_freq": 0.013333333333333334,
+    "mean_freq": 0.03258953168044077,
+    "generations": 120,
+    "recombination_rate": 0.15,
+    "hamilton_margin": 0.0040000000000000036
+  },
+  {
+    "final_freq": 0.284,
+    "max_freq": 0.284,
+    "min_freq": 0.042666666666666665,
+    "mean_freq": 0.13019834710743802,
+    "generations": 120,
+    "recombination_rate": 0.3,
+    "hamilton_margin": -0.001999999999999995
+  }
+]

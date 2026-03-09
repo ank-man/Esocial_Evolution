@@ -53,6 +53,26 @@ This repository contains the **exact standalone scripts** referenced in the Mate
 
 ---
 
+
+## 🧪 Simulation and validation experiments
+
+To run the full set of simulation/validation experiments (synteny nulls, phylogenetic permutations, gene-family evolution simulation, and Hamilton-style linkage simulation):
+
+```bash
+python run_validation_experiments.py
+```
+
+Outputs are written to:
+
+- `results/validation_experiments/01_synteny_null.json`
+- `results/validation_experiments/02_phylo_permutation.json`
+- `results/validation_experiments/03_gene_family_simulations.json`
+- `results/validation_experiments/04_hamilton_synteny_simulation.json`
+
+Use `--seed` and `--outdir` to customize reproducibility and output location.
+
+---
+
 ## 🗄️ Data & storage
 
 * Raw genome FASTA/GFF files (> 100 GB) are **not** tracked; the download script pulls them on‑demand.

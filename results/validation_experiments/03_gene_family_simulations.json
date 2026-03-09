@@ -1,0 +1,20 @@
+{
+  "neutral_model": {
+    "n_families": 800,
+    "mean_family_size_eusocial": 12.7675,
+    "mean_family_size_solitary": 12.72625,
+    "delta_social_minus_solitary": 0.04124999999999979,
+    "p_dup": 0.09,
+    "p_loss_base": 0.07,
+    "eusocial_loss_modifier": 1.0
+  },
+  "hypothesis_model": {
+    "n_families": 800,
+    "mean_family_size_eusocial": 13.875,
+    "mean_family_size_solitary": 13.2175,
+    "delta_social_minus_solitary": 0.6575000000000006,
+    "p_dup": 0.09,
+    "p_loss_base": 0.07,
+    "eusocial_loss_modifier": 0.7
+  }
+}
